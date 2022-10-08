@@ -1,0 +1,43 @@
+
+form{
+    border: solid 2px black;
+    padding: 10px 4px;
+    height: 28px;
+    background-color: #f60;
+   color: aliceblue;
+}
+#btnSalvar{
+    
+    background-color: green;
+    border: 2px;
+    color: aliceblue;
+    padding: 2px 4px;
+    border-radius: 5px;
+
+}
+#tblListar{
+    width: 100%;
+    border: solid 2px;
+    text-align: left;
+    border-collapse: collapse;
+    
+}
+
+#tblListar tbody tr{
+    border:  solid 2px;
+    height: 30px;
+   
+}
+#tblListar thead{
+    background: bisque;
+}
+th{
+    background-color: #f60;
+    color: aliceblue;
+}
+h2{
+    color: #f60;
+}
+block{
+    background-color: blue;
+}
